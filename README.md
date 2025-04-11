@@ -1,1 +1,4 @@
-# near-fall-2024-hamtrunk
+# HamTrunk™ has moved!
+
+## Find us at [our new home](https://github.com/hamtrunk)!
+
